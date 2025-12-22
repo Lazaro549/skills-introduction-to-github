@@ -1,16 +1,76 @@
-# Introduction to GitHub
+# 👋 ¡Hi! Am Lazaro
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey Lazaro549!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Lazaro549/skills-introduction-to-github/issues/1)
+🤖 **Junior AI & Robotics Developer**  
+📍 Argentina  
+ 
+Passionate about **Artificial Intelligence**, **Robotics**, and developing solutions that combine software and hardware. I enjoy learning by building real-world projects, experimenting with new technologies, and collaborating on technical teams.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 🧠 Areas of Interest
+- Artificial Intelligence & Dates
+- Robotics and Autonomous Systems
+- Computer Vision
+- Control and Simulation
+- Automation and Embedded Systems
+
+---
+
+## 🛠️ Technologies and Tools
+
+**Lenguajes**
+- Python 🐍
+- C++ 🧩
+- HTML </>
+
+**IA & Data**
+- Grok
+- ChatGPT
+- Gemini
+- Meta
+- Perplexity
+- Claude
+- Microsoft copilot
+- GitHub copilot
+- Amazon Q
+
+**Robótica**
+- MiniBloq
+- Arduino 
+
+**Dev & Tools**
+- GitHub
+- Localhost
+- Minibloq
+- VSC
+- Bash
+- MySQL
+- AWS
+---
+
+> 👉 See more in my repositories 👇
+
+---
+
+## 📈 What I'm working on now
+- Strengthening AI
+- AI in numbers
+- Strengthening C++
+
+---
+
+## 🌱 Objetivo Profesional
+Grow as an **AI & Robotics Engineer**, contribute to innovative projects, and continue learning.
+
+---
+
+## 📫 Contact
+- 📧 Email: [lazarogvitolo@gmail]
+- 💼 LinkedIn: [https://www.linkedin.com/in/lazaro-gomez-vitolo-532109340/]
+- 🌐 Portafolio: [in progress]
+
+---
+
+⭐ *Thank you for visiting my profile. ¡Feel free to explore my projects or contact me!*  
+
 
