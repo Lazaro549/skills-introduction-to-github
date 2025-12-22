@@ -19,9 +19,18 @@ Passionate about **Artificial Intelligence**, **Robotics**, and developing solut
 ## 🛠️ Technologies and Tools
 
 **Lenguajes**
+- Lua 
+- HTML </>
+- PHP 
+- CSS
+- SQL
+- JS
 - Python 🐍
 - C++ 🧩
-- HTML </>
+- C#
+- Rust 🦀
+- Bash $
+- Java 
 
 **IA & Data**
 - Grok
